@@ -1,0 +1,17 @@
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Application.deps.json
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Application.dll
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Application.pdb
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.csproj.AssemblyReference.cache
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.AssemblyInfoInputs.cache
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.AssemblyInfo.cs
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.dll
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\refint\back_horoscopo.Application.dll
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.pdb
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\ref\back_horoscopo.Application.dll
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Application.runtimeconfig.json
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_horoscopo.Application.genruntimeconfig.cache
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Infrastructure.dll
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\bin\Debug\net6.0\back_horoscopo.Infrastructure.pdb
+C:\Users\Belen Izetta\source\repos\back_horoscopo\back_horoscopo.Application\obj\Debug\net6.0\back_hor.1A01789A.Up2Date
